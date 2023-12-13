@@ -1,0 +1,6 @@
+[book]
+authors = ["MoveFuns"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Move Handbook"
